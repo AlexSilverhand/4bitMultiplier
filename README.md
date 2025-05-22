@@ -13,9 +13,10 @@ This project implements a 4-bit binary multiplier using VHDL. It performs unsign
   - Generates 4 partial products manually.
   - Combines them using vector arithmetic to produce the final result.
 
-### Example Waveform
+### Examples
 
-![Waveform](waveForm.png)
+![Waveform](waveForm1.png)
+![Waveform](waveForm2.png)
 
 ## Files
 
